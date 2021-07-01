@@ -6,11 +6,12 @@ namespace HomeWork_1
     {
         static void Main(string[] args)
         {
-            int picturAll = 52;
-            int picturSeries = 3;
-            int series = picturAll / picturSeries;
-            int aboveNorm = picturAll % series;
-            Console.WriteLine($"Количество заполненых рядов: {series} , картинок сверх нормы {aboveNorm}");
+            Console.Write("Введите количество золота: ");
+            int money = Convert.ToInt32(Console.ReadLine());
+            int cristalPrice = 20;
+            int count = money / cristalPrice;
+            int remainsMoney = money % cristalPrice;
+            Console.WriteLine($"Количество кристаллов: {count},остаток золота {remainsMoney}");
         }
     }
 }

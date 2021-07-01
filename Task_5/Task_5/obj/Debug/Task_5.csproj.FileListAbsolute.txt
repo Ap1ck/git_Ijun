@@ -1,0 +1,7 @@
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\bin\Debug\Task_5.exe.config
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\bin\Debug\Task_5.exe
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\bin\Debug\Task_5.pdb
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\obj\Debug\Task_5.csprojAssemblyReference.cache
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\obj\Debug\Task_5.exe
+D:\Ijunior_HomeWork\HomeWork\Task_5\Task_5\obj\Debug\Task_5.pdb
